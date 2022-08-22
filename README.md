@@ -4,6 +4,6 @@ Interpret the dataset find the sales, How many restaurants are there with Good r
 
 With dataset, find out the sales of particular brand volume in summer season.
 
-IF, IFS, SUMIF, SUMIFS, COUNTIFS, VLOOKUP functions are used to fins out respective outputs
+IF, IFS, SUMIF, SUMIFS, COUNTIFS, VLOOKUP functions are used to find out respective outputs
 
-Calculate the number of items, sales volume and market share for the brand “Juhayna
+Calculate the number of items, sales volume and market share for the brand “Juhayna"
